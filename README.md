@@ -1,4 +1,4 @@
-#FizzBuzz
+# FizzBuzz
 
 FizzBuzz is math game for kids, but is also could be interesting programmer task.
 Defaults rules are:

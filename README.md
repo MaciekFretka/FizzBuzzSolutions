@@ -7,4 +7,9 @@ Defaults rules are:
 - Print “Buzz” if an integer is divisible by 5
 - Print “FizzBuzz” if an integer is divisible by both 3 and 5.
 
-In branches
+On branches i proposed two solutions in Java:
+
+- Using functional interfaces with lambda expressions
+- Using HashMap to define collections of additional conditions.
+
+In my opinion - solution on branch 'FlexibleSolutionWithConditions' is more usable :)

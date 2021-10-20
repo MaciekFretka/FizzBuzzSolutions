@@ -27,7 +27,7 @@ public class FizzBuzzGame {
         };
 
         for(int i=1;i<=size;i++){
-            System.out.print("Kid shout: ");
+            System.out.print("Kid is shouting: ");
             String result="";
             result+=fizz.shout(i);
             result+=buzz.shout(i);

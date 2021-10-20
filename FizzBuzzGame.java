@@ -5,7 +5,7 @@ import java.util.*;
 
 public class FizzBuzzGame {
 
-    int size;
+    private Integer size;
 
     private Map<Integer,String> conditions = new HashMap<Integer,String>();
 
